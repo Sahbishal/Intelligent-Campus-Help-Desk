@@ -16,6 +16,7 @@ The platform centralizes campus information and provides quick, structured respo
 
 
 
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js, React, TypeScript
