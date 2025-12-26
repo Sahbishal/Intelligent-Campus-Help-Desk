@@ -14,7 +14,7 @@ The platform centralizes campus information and provides quick, structured respo
 - 🎨 Clean and responsive UI
 - 🔒 Modular and scalable project structure
 
----
+
 
 ## 🛠️ Tech Stack
 
