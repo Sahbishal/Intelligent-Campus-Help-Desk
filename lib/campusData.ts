@@ -24,6 +24,7 @@ export const CAMPUS_DATA = `
 - Add/Drop period ends 2 weeks after the semester starts.
 - Tuition payment deadline: First day of classes.
 
+
 ## 5. Campus Shuttle
 - The 'Blue Line' runs every 15 minutes between North Campus and South Campus.
 - The 'Red Line' runs every 30 minutes to the downtown area.
