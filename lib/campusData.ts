@@ -6,6 +6,7 @@ export const CAMPUS_DATA = `
 - Spring Semester: January 15 - May 10
 - Summer Session: June 1 - August 1
 
+
 ## 2. Library Hours
 - Monday - Thursday: 8:00 AM - 11:00 PM
 - Friday: 8:00 AM - 6:00 PM
